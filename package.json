@@ -1,8 +1,8 @@
 {
   "name": "u-develop-it",
   "version": "1.0.0",
-  "description": "Module 11 Lesson Activity",
-  "main": "index.js",
+  "description": "Module 12 Lesson Activity",
+  "main": "server.js",
   "scripts": {
     "test": "jest",
     "start": "node server.js"
